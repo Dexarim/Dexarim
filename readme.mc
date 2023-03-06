@@ -1,3 +1,5 @@
+# Hi, I'm Dexarim! 👋
+
 ## About Me
 My name is Dima, I am 18 years old, I write Python programs and develop AI, and also work as a robotics teacher
 
